@@ -23,7 +23,6 @@
 10- Design Distributed Cache: [https://lnkd.in/dTTg_Wm7](https://lnkd.in/dTTg_Wm7)
 
 
-
 ## New to Node.Js ? Start here - The essential books to get up to speed fast ✨
 
   
@@ -74,9 +73,7 @@
 10: Project-Based Tutorials in C: [https://lnkd.in/dtvQmgjX](https://lnkd.in/dtvQmgjX)
 
 
-
 ## 🚀 10 Projects to skyrocket your coding skills(Github)
-
 
 1- The Veggie King  [https://lnkd.in/gFChsQp5](https://lnkd.in/gFChsQp5)  
   
@@ -103,4 +100,89 @@
 9- Any Chat  [https://lnkd.in/gRy8eKcd](https://lnkd.in/gRy8eKcd)  
   
 10- IDURAR ERP CRM  [https://lnkd.in/g7emp-QB](https://lnkd.in/g7emp-QB)
+
+
+## 10 JavaScript Concepts You Should Learn to Master React
+
+  
+👉 Arrow Functions  
+  
+👉 Default Parameters  
+  
+👉 Template Literals  
+  
+👉 Let and Const  
+  
+👉Classes  
+  
+👉Destructuring  
+  
+👉Ternary Operator  
+  
+👉Import / Export Module  
+  
+👉Async / Await  
+  
+👉Spread Operator / Rest Parameter
+
+
+## Top 10 Free Resume Builders of Freshers.👇
+
+
+During resume reviews, many of you have asked me where you can build your resume.  
+  
+So, I am sharing some free websites where you can create your resumes.  
+  
+#1 – Jobscan’s Resume Builder:  [https://lnkd.in/dD4MbKrs](https://lnkd.in/dD4MbKrs)  
+  
+#2 – CakeResume:  [https://lnkd.in/d77RXjSh](https://lnkd.in/d77RXjSh)  
+  
+#3 – Resume Genius:  [https://resumegenius.com](https://resumegenius.com)  
+  
+#4 – My Perfect Resume:  [https://lnkd.in/dX68Xiz4](https://lnkd.in/dX68Xiz4)  
+  
+#5 – Indeed:  [https://lnkd.in/d_JYEENJ](https://lnkd.in/d_JYEENJ)  
+  
+#6 – Zety:  [https://zety.com](https://zety.com)  
+  
+#7 –  [Resume.com](http://Resume.com):  [https://www.resume.com](https://www.resume.com)  
+  
+#8 – Novoresume:  [https://novoresume.com](https://novoresume.com)  
+  
+#9 – Standard Resume:  [https://standardresume.co](https://standardresume.co)  
+  
+#10 – Canva:  [https://lnkd.in/d99s_du2](https://lnkd.in/d99s_du2)  
+  
+ Overleaf :  [https://lnkd.in/d6Tei5Y8](https://lnkd.in/d6Tei5Y8)
+
+
+## 𝐒𝐃𝐄 𝐈𝐧𝐭𝐞𝐫𝐯𝐢𝐞𝐰𝐬: 𝐌𝐨𝐬𝐭 𝐀𝐬𝐤𝐞𝐝 𝐃𝐒𝐀 𝐐𝐮𝐞𝐬𝐭𝐢𝐨𝐧𝐬❕
+
+  
+𝐓𝐫𝐞𝐞𝐬 & 𝐆𝐫𝐚𝐩𝐡𝐬:  
+  
+▪️ Find the lowest common ancestor in a binary tree.  
+▪️ Implement algorithms for BFS and DFS on a graph.  
+  
+𝐀𝐫𝐫𝐚𝐲𝐬 & 𝐒𝐭𝐫𝐢𝐧𝐠𝐬:  
+  
+▪️ Implement an algorithm to rotate an image represented by an NxN matrix.  
+▪️ Describe an approach to finding the first non-repeated character in a string.  
+  
+𝐋𝐢𝐧𝐤𝐞𝐝 𝐋𝐢𝐬𝐭𝐬:  
+  
+▪️ How would you detect a cycle in a linked list?  
+▪️ Write a function to reverse a linked list.  
+▪️ Merge two sorted linked lists into one.  
+  
+𝐇𝐚𝐬𝐡𝐢𝐧𝐠:  
+  
+▪️ How can you find the first non-repeated character in a string using hashing?  
+▪️ Implement a basic hash table with insert, delete, and retrieve methods.  
+  
+𝐑𝐞𝐜𝐮𝐫𝐬𝐢𝐨𝐧 & 𝐃𝐲𝐧𝐚𝐦𝐢𝐜 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠:  
+  
+▪️ Find the number of ways to represent n cents using quarters, dimes, nickels, and pennies.  
+▪️ Implement a function to jump up a staircase taking 1, 2, or 3 steps at a time.
+
 
