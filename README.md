@@ -1,5 +1,7 @@
 # Best Resources for Web Developers
 
+
+![enter image description here](https://media.licdn.com/dms/image/D4D22AQEz1Ihz_A76Ow/feedshare-shrink_800/0/1700769754078?e=1703721600&v=beta&t=IpELr061CK1djVLEFZm1HB8GURTsukPMHDkxDx_ROnw)
 ## Most-asked System Designs Questions, Nail Your Interview with these Top 10 Q&A! 🚀
 
 1- Design a Simple Authentication System: [https://lnkd.in/dDiH-AXq](https://lnkd.in/dDiH-AXq)  
@@ -160,7 +162,7 @@ So, I am sharing some free websites where you can create your resumes.
 
   
 𝐓𝐫𝐞𝐞𝐬 & 𝐆𝐫𝐚𝐩𝐡𝐬:  
-  
+ 
 ▪️ Find the lowest common ancestor in a binary tree.  
 ▪️ Implement algorithms for BFS and DFS on a graph.  
   
